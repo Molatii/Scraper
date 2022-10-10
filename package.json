@@ -1,0 +1,30 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "full.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.3.0",
+    "got": "^10.4.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^10.1.0",
+    "webscraper": "^0.1.0",
+    "website-scraper": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molatii/Web_Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Molatii/Web_Scraper/issues"
+  },
+  "homepage": "https://github.com/Molatii/Web_Scraper#readme",
+  "description": ""
+}
